@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🪶 My name is Maria Virgínia Mendonça
+
 🌱 I'm currently working on Mobile Development and Software Engineering 
 📖 Computer science student: 4/9
 📫 How to contact me: mvmendonca.s3301@gamil.com | Linkedin: https://www.linkedin.com/in/maria-virginia-979609239/
