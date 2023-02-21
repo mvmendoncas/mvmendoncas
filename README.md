@@ -10,7 +10,7 @@
 
 ✨ Pronouns: she/her
 
-mvmendoncas.github.io
+ 💻 Portifolio: https://mvmendoncas.github.io/
 
 
 ![Maria Virginia Mendonça's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvmendoncas&show_icons=true&theme=radical)
