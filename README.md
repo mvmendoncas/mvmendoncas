@@ -4,7 +4,7 @@
 
 🌱 I'm currently working on Frontend Development and Software Engineering 
 
-📖 Computer science student: 6/9
+📖 Computer science student: 7/9
 
 📫 How to contact me: mvmendonca.s3301@gamil.com | Linkedin: https://www.linkedin.com/in/maria-virginia-979609239/
 
