@@ -2,7 +2,7 @@
 
 🪶 My name is Maria Virgínia Mendonça
 
-🌱 I'm currently working on Frontend Development and Software Engineering 
+🌱 I'm currently working on Fullstack Development 
 
 📖 Computer science student: 9/9
 
