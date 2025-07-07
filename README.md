@@ -4,7 +4,7 @@
 
 🌱 I'm currently working on Fullstack Development 
 
-📖 Computer science student: 9/9
+📖 Computer scientist
 
 📫 How to contact me: mvmendonca.s3301@gamil.com | Linkedin: https://www.linkedin.com/in/maria-virginia-979609239/
 
