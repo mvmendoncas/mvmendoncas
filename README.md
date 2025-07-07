@@ -2,7 +2,7 @@
 
 🪶 My name is Maria Virgínia Mendonça
 
-🌱 I'm currently working on Fullstack Development 
+🌱 I'm currently working as IT Business Analytics 
 
 📖 Computer scientist
 
